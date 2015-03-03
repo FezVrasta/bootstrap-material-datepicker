@@ -26,6 +26,8 @@ momentjs [http://momentjs.com/](http://momentjs.com/)
 
 **currentDate** : (String|Date|Moment) => Initial Date
 
+**weekStart** : Integer => Day start of week (0: 'Sunday', 1: 'Monday' ...)
+
 
 ### Events
 
